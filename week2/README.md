@@ -1,4 +1,4 @@
-# Sign up page using HTML
+# Sign up & Login page using HTML and CSS
 
 2nd week of Crework and here are sign up and login pages I created using HTML and CSS
 
